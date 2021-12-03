@@ -1,8 +1,0 @@
-ServverName:
-محله نابینایان(gooshkon.ir)
-HostAddress:
-tt5.gooshkon.ir
-tcpport
-10333
-udpport
-10333
